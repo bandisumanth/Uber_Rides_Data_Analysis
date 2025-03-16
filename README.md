@@ -73,11 +73,5 @@ Visualizations Included:
 • Correlation Heatmap to show relationships among numerical variables.
 • Pie Chart illustrating the proportion of ride categories.
 
-Commit Information:
-Author: bandisumanth  
-Commit Message: "Intial Commit"  
-Commit Hash: 090399d  
-Latest Update: 5 minutes ago (as per commit details)
-
 Conclusion:
 This analysis offers comprehensive insights into Uber ride data, enabling a deeper understanding of ride patterns, customer behavior, and operational metrics. The detailed visualizations help identify trends, anomalies, and opportunities for optimization. For any questions or further information, please contact the repository owner.
